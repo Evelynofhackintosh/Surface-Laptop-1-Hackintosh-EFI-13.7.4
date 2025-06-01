@@ -4,7 +4,6 @@ Here’s a working Hackintosh EFI for the Surface Laptop 1 running macOS Ventura
 
 Drag this into your EFI partition, and you should be good to go!
 
-Disable SIP and install this driver for WIFI: [
-](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter)
+Disable SIP and install this driver for WIFI: (https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter)
 
 (I use the TP-Link Archer T2U Nano Wifi stick)
