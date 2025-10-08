@@ -20,5 +20,6 @@ Apple ID services: ◧, (Some things work. Such as App Store, and more),
 Touchscreen: ✗, 
 Sleep/wake: ✓, 
 Camera: ✗,  
-Sound: ✓,  
+Sound: ✓,
+Microphone: ✓,
 Siri: ✓. 
