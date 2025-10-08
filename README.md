@@ -23,3 +23,5 @@ Camera: ✗,
 Sound: ✓,
 Microphone: ✓,
 Siri: ✓. 
+
+Try to not use the keyboard and trackpad for atleast 20 seconds after booting. This helps them not to bug out.
