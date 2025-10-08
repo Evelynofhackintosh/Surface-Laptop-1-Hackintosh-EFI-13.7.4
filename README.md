@@ -8,16 +8,17 @@ Disable SIP and install this driver for WIFI: (https://github.com/chris1111/Wire
 
 (I use the TP-Link Archer T2U Nano Wifi stick)
 
-Surface Laptop 1 (2017)  CPU: Intel Core i5-7200U, GPU: Intel UHD Graphics 620, Ram: 8GB 1867 MHz LPDDR3, Storage: 128GB NVME SSD. 
+Surface Laptop 1 (2017)  
+CPU: Intel Core i5-7200U, GPU: Intel UHD Graphics 620, Ram: 8GB 1867 MHz LPDDR3, Storage: 128GB NVME SSD. 
 
 Working:  
-Keyboard ✓,  
-Trackpad ✓,  
-Graphics ✓,  
-Wifi ✓, (Needs usb wifi stick. Internal Marvell card not supported),  
-Apple ID services ◧, (Some things work. Such as App Store, and more) 
-Touchscreen ✗, 
-Sleep/wake ✓, 
-Camera ✗,  
-Sound ✓,  
-Siri ✓. 
+Keyboard: ✓,  
+Trackpad: ✓,  
+Graphics: ✓,  
+Wifi: ✓, (Needs usb wifi stick. Internal Marvell card not supported),  
+Apple ID services: ◧, (Some things work. Such as App Store, and more), 
+Touchscreen: ✗, 
+Sleep/wake: ✓, 
+Camera: ✗,  
+Sound: ✓,  
+Siri: ✓. 
